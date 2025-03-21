@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-21 08:35:28,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-03-21 18:36:02,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央卫频道,#genre#
 CCTV-1综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -456,6 +456,7 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 厦门卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226964/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 厦门卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226964/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+厦门卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
@@ -1121,6 +1122,7 @@ NewTV古装剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/20000000030
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 
 🏀体育频道,#genre#
 CCTV-5体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
