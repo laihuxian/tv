@@ -16,3 +16,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://codeberg.org/liuniantv/liunianTV/raw/branch/main/3.17%E6%B5%81%E5%B9%B4%E6%BA%90.txt
+http://117.72.68.25:9230/latest.txt
+http://rihou.cc:555/gggg.nzk
+http://ttkx.cc:55/lib/kx2024.txt
