@@ -20,3 +20,4 @@ https://codeberg.org/liuniantv/liunianTV/raw/branch/main/3.17%E6%B5%81%E5%B9%B4%
 http://117.72.68.25:9230/latest.txt
 http://rihou.cc:555/gggg.nzk
 http://ttkx.cc:55/lib/kx2024.txt
+http://8.138.7.223/live.txt
