@@ -73,205 +73,376 @@ CETV5
 北京卫视4K
 
 🌊全球频道,#genre#
-凤凰中文
-凤凰资讯
-凤凰香港
-凤凰电影
-凤凰美洲台
 中天新闻
 中天新闻2
-民视新闻台
-民视台湾台
-公视新闻
-华视新闻
-中视新闻
-三立新闻
-非凡新闻
-年代新闻
-壹新闻
-非凡商业
 寰宇新闻台
-寰宇新闻台湾台
-寰宇财经新闻台
+民视新闻台
 东森新闻
 东森财经新闻
-半岛新闻
-东森洋片
-东森电影
-东森幼幼
-东森戏剧
-EYETV戏剧
-尼克尔频道
+华视新闻
+三立新闻
+年代新闻
+纬来儿童
+纬来财经
+Nickelodeon
+Cartoon Network
+ESPN
+FX
+TNT
+MSNBC
+Fox News
+Russia-1
+CTC Media
+Kultura
+Match TV
+CTC Love
+KBS 1TV
+KBS 2TV
+MBC
+EBS
+SBS
+Mnet
+TV Chosun
+JTBC
+Channek A
+OBS京放送
+KBS Joy
+MBC every1
+Ariang TV
+BBC ONE
+BBC TWO
+BBC News Channel
+BBC Parliament
+ITV1
+ITV2
+ITV3
+ITV4
+BBC World News
+Sky News
+BBC Four
+Discovery UK
+MTV UK
+BBC iplayer
+ARD
+ZDF
+n-tv
+phonix
+Arte
+NHK综合
+日本24小时新闻
+Channel 8 HD
+Channel U HD
+PopC电影
+ROCK Action
+娱乐新闻台
+好消息
+大爱1
+大爱2
+TVBS新闻台
+三立台湾台
+霹雳台湾台
+台视
 中视
-民视
 华视
 公视
+民视
+原住民族
+客家电视
+探索频道
+Discovery Channel
+Animal Planet
+Travel & Living Channel
+Discovery Science
+Discovery Asia
+
+Discovery US
+Discovery Europe
+Discovery Asia
+探索历史
+探索奇迹
+求索动物
+求索纪录
+求索生活
+求索科学
+求索动物
+求索4K超高清
+ESPN
+BBC Earth
+BBC Drama
+NHK World-Japan
+NOW爆谷台
+AMC电影台
+NOW体育1
+NOW新闻
+MOMO综合
+纬来电影
+中视频道
+纬来育乐
+纬来体育
+ELEVEN体育1
+ELEVEN体育2
+亚洲旅游台
+HITS
+ARIRANGTV
+ANIMAX(HK)
+纬来精彩
+台湾蕃薯
+人间卫视
+三立戏剧台
+博斯无限
+CN卡通
+纬来日本
+东森超视
+东森电影
 八大第1台
-八大戏剧台
 八大综合台
-环球电视台
-阿里郎
-纬来综合
-华艺中文
-龙祥电影
-龙祥时代
-龙华电影
-龙华洋片
-龙华偶像
-龙华日韩
-龙华戏剧
-龙华影剧
-龙华卡通
-龙华经典
-天映频道
+博斯高球1
+博斯运动1
+中天娱乐
+非凡新闻
+耀才财经
+壹电影
 天映经典
+八大戏剧台
+纬来综合
+靖宇综合
+日本全天新闻
+TVBS
+TVBS欢乐台
+东森幼幼
+东森综合
+东森戏剧
+东森财经
+东森洋片
+东森综合
+卫视中文台
+爱尔达体育
+八大娱乐台
+MOMO亲子台
+BBC World News
+Discvrry Channel
+Cartoon Networt
+国家地理
+三立综合
+中天综合
+中天亚洲
+华艺中文
+靖天国际
 靖天卡通
-美食星球
-新加CHU
+龙祥电影
+好莱坞电影
+AXN电影
 亚洲美食
-TCL旅游
 亚洲旅游壹
 亚洲旅游贰
+爱尔达影剧
+爱尔达贰
+博斯高球贰
+博斯网球
+博斯无限壹
+博斯运动壹
+博斯运动贰
+NICK综合
+NICK卡通
+NHK日本
+星空卫视
+镜新闻
+大立电视
+ASTROAEC
+VIU电影
+GINX电影
+龙华日韩
+ELTA影剧
+VIUTV
+阿里郎频道
+天映频道
+VIUTV粤
+八度空间
+ASTROQJ
+ASTROAOD
+ASTRO欢喜台
+ASTRO爱奇艺
+CHANNELU
+ZOOMOO
+华纳电影
+龙华偶像
+龙华戏剧
+龙华电影
+龙华影剧
+龙华洋片
+龙华经典
+美亚电影台
+国家地理
+精选动画
+经典卡通
+龙华卡通
+无线新闻台(北美)
+美食星球
+🇭🇰全球频道,#genre#
+凤凰中文
+凤凰资讯
+HOY76综合
+HOY77资讯
+HOY78新闻
+黄金翡翠
+千禧经典台
+HBO
+HBO原创
+千禧经典台(HK)
+娱乐新闻台(HK
+cat电影
+经典电影台
+电影原创
+18跑马
+MY1
+MY2
+KIX
+戏曲台
+KID
+粤语片台
+ANIMAX
+Now赛事
+NOWsports
+NOWsports高尔夫
+NOWsports2
+NOWsports3
+NOWsports4
+W SPORTS
+NOWsports6
+NOWsports7
+华文一套
+华文二套
+华文三套
+华文四套
+华文五套
+华文七套
+华文八套
+28 AI 智慧賽馬
+tvN
+明珠剧集台(北美)
+翡翠剧集台(北美)
+黃金翡翠
+AXN
+Love Nature HD
+Love_The_Planet
+DW
+France 24
+翡翠华丽
+HBO3
+BBCWORLDAFRICABLE
+RTFRANCE
+FRANCE2
+泰国ASTV
+红牛运动
+MOVIES
+ИНДИЙСКОЕКИНО:КЛАССИКА
+YCTV
+重温经典
+重温经典,
+HOY77综合
+凤凰香港
+香港有线18台
+无线新闻台
+翡翠台
+明珠台
+黄金翡翠台
+TVBPLUS
+TVB星河
+翡翠综合台(北美)
+香港卫视
+香港33台
+香港34台
+香港35台
+TVBJ1
+TVBJ2
+美亚电影台粤语
+美亚电影台(HK)
+澳门Macau
+韩国KCTV_HV2
+CHC家庭影院
+CHC动作电影
+CHC影迷电影
+明珠台粤
+明珠台英
+香港31台
+香港32台
+香港面包
+香港C+
+翡翠台4k
+无线综合
+无线戏曲
+无线粤片
+无线华剧
+无线亚剧
+新加CHU
+新加CH5
+新加CH8
+无线赛马
+channel5
+channel8
+rock影综
+中国电影
+Astr剧集
+Arirang TV
+HBOFamily
+HBO强档
+CINE_MAX
+mtv频道
+WARNER
+Moviesnow
+StarMovies
+NHK东京综合
+Nick Jr
+Nickelodeon
+Thrill
+Xite_Hits
+亚洲新闻
+动物星球
+法国时尚
+东方卫视国际頻道
+澳视澳门
+黄金华剧
+凤凰电影
+凤凰美洲台
+民视台湾台
+公视新闻
+中视新闻
+壹新闻
+非凡商业
+寰宇新闻台湾台
+寰宇财经新闻台
+半岛新闻
+EYETV戏剧
+尼克尔频道
+环球电视台
+阿里郎
+龙祥时代
+TCL旅游
 爱尔达影
 DAZN体育1
 DAZN体育2
 ASC搜索
 Diso综合
-astro欢喜台
-astro爱奇艺
-大爱1
-大爱2
-大立电视
-靖宇综合
 28 AI智慧赛马
-无线赛马
-东森超视
 东森LIVE
-MoMo综合
 ELEVEN体育1台
 ELEVEN体育2台
-HITS
 NHK华语
 星卫电影
-博斯高球1
-博斯运动1
-博斯无限
-中天娱乐
 探索频道
 DW综合
 CNA新闻
-HOY76综合
-HOY77资讯
-HOY78新闻
-耀才财经
 亚洲旅游
 49号
-VIUTV
 纬来戏剧
-国家地理
 CHANNELV
-八度空间
-澳视澳门
-中天亚洲
-中天综合
-中天娱乐
 CNN
-香港C+
-香港31台
-香港32台
-香港33台
-香港34台
-香港35台
 韩国SBS
 美国CINEMAX电影台
 美国Fox电影台
 法国Mezzo Live
 福克斯新闻
 
-动物星球
-重温经典
-中华小当家
-纬来精彩
-三立综合
-客家电视
-原住民
-探索频道
-探索亚洲
-法国时尚
-翡翠台
-TVBS
-TVBS娱乐新闻台
-PopC电影
-Now爆谷台
-Now爆谷星影台
-NOW新闻台
-美亚电影台
-iQIYI爱奇艺
-Astro 欢喜台
-AstroQJ
-AstroAEC
-三立娱家台
-三立都会台
-星空卫视
-星卫电影
-纬来电影
-AXN频道
-千禧经典台
-tvN
-壹电影
-HBO
-HBO2
-HBO3
-HBO原创
-HBO强档
-HBO家庭
-NOW新闻
-NOW华剧
-NOW紫金
-NOW剧集
-NOW体育
-华纳电影
-中国电影频道
-黄金华剧台
-天映电影
-TVB功夫台
-好莱坞电影
-AMC最爱电影
-NowSports1
-NowSports英超1台
-NBA TV
-NOW体育1
-NOWNBA1
-NOW新闻台
-ViuTV
-纬来电影
-纬来日本
-纬来体育
-
-翡翠台
-明珠台
-TVBS亚洲
-香港卫视
-香港面包
-台湾蕃薯
-纬来体育
-纬来育乐
-TVBJ1
-TVBJ2
-Viutv
-三立台湾台
-无线新闻台
-三立新闻
-东森综合
-东森超视
-东森电影
-Now剧集
-Now华剧
-靖天资讯
-靖天国际
-CN卡通
-星卫娱乐
-卫视卡式
 
 ☘️福建频道,#genre#
 三明公共
