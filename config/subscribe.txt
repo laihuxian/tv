@@ -48,3 +48,4 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/
 https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u
+http://166.108.201.231/ip.txt
