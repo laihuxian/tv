@@ -19,3 +19,4 @@ aktv_stream1.m16tv.cfd
 37.27.111.214:8080
 event.pull.hebtv.com
 php.jdshipin.com/TVOD
+zb.xmzb.xyz/888.php
