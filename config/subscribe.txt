@@ -50,3 +50,8 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u
 http://166.108.201.231/ip.txt
 http://aktv.space/live.m3u
+https://live.iptv365.org/live.txt
+http://l.gmbbk.com/upload/35143514.txt
+http://211.154.28.50:5898/2025.txt
+https://ghproxy.net/https://raw.githubusercontent.com/ywg228/dsjtv/main/live.txt
+http://8.138.7.223/live.txt
